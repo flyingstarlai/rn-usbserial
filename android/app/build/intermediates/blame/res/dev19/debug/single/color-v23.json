@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

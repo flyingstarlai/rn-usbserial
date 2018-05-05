@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_left_in.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_right_out.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/animator/card_flip_right_out.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_left_out.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_right_in.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/animator/card_flip_right_in.xml"
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "usbser",
+    "description": "This project is really great.",
+    "slug": "usbser",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "isDetached": true,
+    "detach": {
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.5.0-sdk27.0.0-52e1bcea-f10c-4bf8-bfd7-d1630727dec0.tar.gz"
+    },
+    "scheme": "expbddad924a09e48b0b3e13ecf2b5dde43",
+    "android": {
+      "package": "starlai.usbser",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
+    }
+  }
+}

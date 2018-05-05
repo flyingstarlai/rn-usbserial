@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

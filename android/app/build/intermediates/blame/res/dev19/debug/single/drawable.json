@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_icon.xml",
+        "source": "/home/izayoi/.android/build-cache/7d44d4df35e9b07bb04f57a2b50feceda0efb78a/output/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/home/izayoi/.android/build-cache/7d44d4df35e9b07bb04f57a2b50feceda0efb78a/output/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/home/izayoi/.android/build-cache/cc8364caef55a1d0d3b38c95b352d661740ec6c6/output/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/26ffe80e2dc49dec50ff49f6bd5761be90a829e2/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/home/izayoi/.android/build-cache/cc8364caef55a1d0d3b38c95b352d661740ec6c6/output/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_vector_test.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/home/izayoi/.android/build-cache/cc8364caef55a1d0d3b38c95b352d661740ec6c6/output/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/spinner_background_holo_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/spinner_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/splash_background.xml",
+        "source": "/home/izayoi/ReactNative/usbser/android/app/src/main/res/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/izayoi/.android/build-cache/26ffe80e2dc49dec50ff49f6bd5761be90a829e2/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/edit_text_holo_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/edit_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_logo.xml",
+        "source": "/home/izayoi/.android/build-cache/8c63aa83d7af6fdd24b466f3281285a3a9154ede/output/res/drawable/com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_icon_background.xml",
+        "source": "/home/izayoi/.android/build-cache/49b2c5543c2f577c3b3b8f1f2d5a64e1dafc57f6/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/card_input_custom_background.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/card_input_custom_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/26ffe80e2dc49dec50ff49f6bd5761be90a829e2/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/card_512.png",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/card_512.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/stp_card_form_back.png",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/stp_card_form_back.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_background.xml",
+        "source": "/home/izayoi/.android/build-cache/8c63aa83d7af6fdd24b466f3281285a3a9154ede/output/res/drawable/com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_bg_low.xml",
+        "source": "/home/izayoi/.android/build-cache/49b2c5543c2f577c3b3b8f1f2d5a64e1dafc57f6/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/izayoi/.android/build-cache/26ffe80e2dc49dec50ff49f6bd5761be90a829e2/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/izayoi/.android/build-cache/49b2c5543c2f577c3b3b8f1f2d5a64e1dafc57f6/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/btn_default_holo_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/btn_default_holo_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/home/izayoi/.android/build-cache/cd94a27a36dd985ff9e96bf2b6d54a1b2e7ef808/output/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/izayoi/.android/build-cache/26ffe80e2dc49dec50ff49f6bd5761be90a829e2/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/header_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/header_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/loading_status_bar_background.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/loading_status_bar_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/stp_card_form_front.png",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/drawable/stp_card_form_front.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_favicon_blue.xml",
+        "source": "/home/izayoi/.android/build-cache/7d44d4df35e9b07bb04f57a2b50feceda0efb78a/output/res/drawable/com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/home/izayoi/.android/build-cache/cc8364caef55a1d0d3b38c95b352d661740ec6c6/output/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/tooltip_frame_light.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/izayoi/.android/build-cache/26ffe80e2dc49dec50ff49f6bd5761be90a829e2/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/home/izayoi/.android/build-cache/7d44d4df35e9b07bb04f57a2b50feceda0efb78a/output/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/background_white.xml",
+        "source": "/home/izayoi/.android/build-cache/76cdb065a933812e64a9deb9ca59d61e64d04be6/output/res/drawable/background_white.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_bg.xml",
+        "source": "/home/izayoi/.android/build-cache/49b2c5543c2f577c3b3b8f1f2d5a64e1dafc57f6/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/home/izayoi/.android/build-cache/8c63aa83d7af6fdd24b466f3281285a3a9154ede/output/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_send_button_icon.xml",
+        "source": "/home/izayoi/.android/build-cache/cd94a27a36dd985ff9e96bf2b6d54a1b2e7ef808/output/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/izayoi/.android/build-cache/26ffe80e2dc49dec50ff49f6bd5761be90a829e2/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/home/izayoi/.android/build-cache/7d44d4df35e9b07bb04f57a2b50feceda0efb78a/output/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/home/izayoi/.android/build-cache/7d44d4df35e9b07bb04f57a2b50feceda0efb78a/output/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/crop_image_menu_crop_stub.xml",
+        "source": "/home/izayoi/.android/build-cache/ca5af3dd69fe929d9e413609c226bdb0c343b82a/output/res/drawable/crop_image_menu_crop_stub.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/izayoi/.android/build-cache/26ffe80e2dc49dec50ff49f6bd5761be90a829e2/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_background.xml",
+        "source": "/home/izayoi/.android/build-cache/7d44d4df35e9b07bb04f57a2b50feceda0efb78a/output/res/drawable/com_facebook_button_background.xml"
+    }
+]

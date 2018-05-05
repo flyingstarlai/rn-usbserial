@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/home/izayoi/.android/build-cache/d5bf4e623c222bfee2e3e5334ee91ddaa30d1252/output/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/home/izayoi/.android/build-cache/d5bf4e623c222bfee2e3e5334ee91ddaa30d1252/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/home/izayoi/.android/build-cache/d5bf4e623c222bfee2e3e5334ee91ddaa30d1252/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/home/izayoi/.android/build-cache/d5bf4e623c222bfee2e3e5334ee91ddaa30d1252/output/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/home/izayoi/.android/build-cache/d5bf4e623c222bfee2e3e5334ee91ddaa30d1252/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/home/izayoi/.android/build-cache/d5bf4e623c222bfee2e3e5334ee91ddaa30d1252/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/xml/preferences.xml",
+        "source": "/home/izayoi/.android/build-cache/e6d81b3df8c6ea04322dc18d3167107c09014e43/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/xml/stub_classic.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/xml/stub_classic.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/xml/stub_material.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/xml/stub_material.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/xml/provider_paths.xml",
+        "source": "/home/izayoi/.android/build-cache/1eb39e46baa7494e4cbae02e9426fd69d3e23181/output/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/xml/global_tracker.xml",
+        "source": "/home/izayoi/ReactNative/usbser/android/app/build/generated/res/google-services/dev19/debug/xml/global_tracker.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/mipmap-xhdpi/dev_icon.png",
+        "source": "/home/izayoi/ReactNative/usbser/android/app/src/main/res/mipmap-xhdpi/dev_icon.png"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/izayoi/ReactNative/usbser/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

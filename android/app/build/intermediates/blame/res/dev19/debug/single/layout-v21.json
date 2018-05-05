@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/izayoi/.android/build-cache/49b2c5543c2f577c3b3b8f1f2d5a64e1dafc57f6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/izayoi/.android/build-cache/49b2c5543c2f577c3b3b8f1f2d5a64e1dafc57f6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/layout-v21/notification_action.xml",
+        "source": "/home/izayoi/.android/build-cache/49b2c5543c2f577c3b3b8f1f2d5a64e1dafc57f6/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/izayoi/.android/build-cache/49b2c5543c2f577c3b3b8f1f2d5a64e1dafc57f6/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/izayoi/.android/build-cache/e6d81b3df8c6ea04322dc18d3167107c09014e43/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_in.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_down.xml",
+        "source": "/home/izayoi/.android/build-cache/e6d81b3df8c6ea04322dc18d3167107c09014e43/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_exit.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/cycle.xml",
+        "source": "/home/izayoi/.android/build-cache/76cdb065a933812e64a9deb9ca59d61e64d04be6/output/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/shake.xml",
+        "source": "/home/izayoi/.android/build-cache/76cdb065a933812e64a9deb9ca59d61e64d04be6/output/res/anim/shake.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_in.xml",
+        "source": "/home/izayoi/.android/build-cache/214b29c4b787a83a5fc207e5adc704c78b85f0a1/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_enter.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/izayoi/.android/build-cache/e6d81b3df8c6ea04322dc18d3167107c09014e43/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_exit.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_out.xml",
+        "source": "/home/izayoi/.android/build-cache/214b29c4b787a83a5fc207e5adc704c78b85f0a1/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_down.xml",
+        "source": "/home/izayoi/.android/build-cache/214b29c4b787a83a5fc207e5adc704c78b85f0a1/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/izayoi/.android/build-cache/e6d81b3df8c6ea04322dc18d3167107c09014e43/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/izayoi/.android/build-cache/e6d81b3df8c6ea04322dc18d3167107c09014e43/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_up.xml",
+        "source": "/home/izayoi/.android/build-cache/214b29c4b787a83a5fc207e5adc704c78b85f0a1/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_enter.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/izayoi/.android/build-cache/e6d81b3df8c6ea04322dc18d3167107c09014e43/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/izayoi/ReactNative/usbser/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_out.xml",
+        "source": "/home/izayoi/.android/build-cache/0eefb39fb4f2404de1c6ab60ab44b1d5af492a59/output/res/anim/abc_fade_out.xml"
+    }
+]

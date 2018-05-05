@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/izayoi/ReactNative/usbser/node_modules/react-native-usbserial/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="554af3e2363f6aa206952443b718c00e4ab45ffb">
+        <dex dex="/home/izayoi/ReactNative/usbser/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/4/classes_9e4d5d092fcd23f34f7e38ac1e0d70631303e078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izayoi/ReactNative/usbser/android/app/build/intermediates/exploded-aar/com.hoho.android/usb-serial-for-android/0.2.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f5d3bc2c2e97e0d9372e601d83d7567ef6a4d0f">
+        <dex dex="/home/izayoi/ReactNative/usbser/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/com.hoho.android-usb-serial-for-android-0.2.0-SNAPSHOT_5399f4686b78d70d2d47177813d5c727c6803466/classes.dex" />
+    </item>
+
+</items>

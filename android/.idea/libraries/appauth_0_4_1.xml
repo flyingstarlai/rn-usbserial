@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="appauth-0.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/d63c382f6c934db7a5a26c3ed08e2680a405f43d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/d63c382f6c934db7a5a26c3ed08e2680a405f43d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

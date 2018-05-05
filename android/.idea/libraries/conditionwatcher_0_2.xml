@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="conditionwatcher-0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/0ace1e9f63892756f54090bc440df6f77e50983c/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0ace1e9f63892756f54090bc440df6f77e50983c/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
